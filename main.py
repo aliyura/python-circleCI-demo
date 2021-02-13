@@ -1,5 +1,5 @@
-def calculate(input):
-    res = eval(input)
+def calculate(inp):
+    res = eval(inp)
     print(res)
     return res
 
